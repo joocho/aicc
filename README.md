@@ -1,5 +1,6 @@
 # Title: Certifying AI Agents Under the Common Criteria and Emerging Assurance Frameworks
-**Draft v0.1** — working paper
+**Preprint.** Submitted to Computer Standards & Interfaces (CSI-D-26-01631),
+desk-rejected October 2026. Under revision. Archived at Zenodo: [DOI]
 
 ## Abstract
 
