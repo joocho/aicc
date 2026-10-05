@@ -1,0 +1,18 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "Certifying AI Agents Under the Common Criteria and Emerging Assurance Frameworks",
+  "creators": [
+    {
+      "name": "Cho, Joo Yeon",
+      "affiliation": "Department of Defense AI Convergence, Hongik University",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "description": "Preprint. Analyses structural gaps in current AI agent certification and proposes AICC, an adaptation of ISO/IEC 15408 for agentic systems.",
+  "license": "cc-by-nc-nd-4.0",
+  "keywords": ["Common Criteria", "ISO/IEC 15408", "AI agents",
+               "security certification", "LLM-as-a-judge",
+               "measurement uncertainty"],
+  "access_right": "open"
+}
